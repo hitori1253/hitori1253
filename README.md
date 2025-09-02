@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 div align="center">
+  Konnichiwa Watashi wa hitori Desu (^///^)
+</h1 div>
 
 <!--
 **hitori1253/hitori1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
